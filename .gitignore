@@ -1,0 +1,5 @@
+*.DS_Store
+*.pipe
+*.pyc
+logs
+.idea/
